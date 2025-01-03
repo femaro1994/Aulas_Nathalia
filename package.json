@@ -6,7 +6,7 @@
   "types": "lib/index.d.ts",
   "type": "module",
   "scripts": {
-    "start": "node .",
+    "start": "node .", iiOunwJsPV
     "build": "tsc",
     "prepare": "npm run build"
   },
